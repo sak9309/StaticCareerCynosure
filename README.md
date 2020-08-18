@@ -1,0 +1,2 @@
+# StaticCareerCynosure
+Static Website
